@@ -12,3 +12,9 @@ The study explores strategic factors for ultra-premium audiophile brands enterin
 **Frameworks used:** PESTLE Analysis, SWOT Analysis, Competitive Benchmarking
 
 This work strengthens insights into international business strategy, digital transformation, and luxury brand management.
+
+---
+
+## Certificate
+
+![Research Certificate](https://github.com/OmPatil2806/PremiumAudioStrategy-broad-professional-fits-strategic-analysis./blob/main/Certificate.png)
